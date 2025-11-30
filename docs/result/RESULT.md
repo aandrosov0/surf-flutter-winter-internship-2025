@@ -61,7 +61,10 @@ https://github.com/user-attachments/assets/c1f5f2f0-0a37-4537-b254-64d99c096931
 Получение рецептов, удаление:
 
 
-https://github.com/user-attachments/assets/ffbc3eb9-86c7-41b4-aa0f-a3d0dd96e4b1
+
+https://github.com/user-attachments/assets/ab385a84-f657-41e5-a760-447858101a65
+
+
 
 Обработка ошибок:
 
