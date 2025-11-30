@@ -114,7 +114,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
           : () {
               context.pop([..._fruitFilters, ?_fruitSorting]);
             },
-      child: Text('Подтвердить'),
+      child: Text('Применить'),
     );
   }
 }
